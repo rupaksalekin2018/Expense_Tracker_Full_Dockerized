@@ -1,0 +1,10 @@
+alembic
+fastapi
+fastapi-sqlalchemy
+psycopg2
+pydantic
+python-dotenv
+sqlalchemy
+uvicorn
+python-jose
+werkzeug
