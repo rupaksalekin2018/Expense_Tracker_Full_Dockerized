@@ -6,7 +6,7 @@
 A secure REST API for expense tracking with JWT authentication, built with FastAPI and PostgreSQL.
 ```bash
 .
-├── migrations/       # Database migrations
+├── alembic/       # Database migrations
 ├── models.py         # Database models
 ├── schema.py         # Pydantic schemas
 ├── main.py           # FastAPI application
