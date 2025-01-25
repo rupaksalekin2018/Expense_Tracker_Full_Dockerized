@@ -4,15 +4,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 A secure REST API for expense tracking with JWT authentication, built with FastAPI and PostgreSQL.
+```bash
 .
-├── alembic/ # Database migrations
-├── models.py # Database models
-├── schema.py # Pydantic schemas
-├── main.py # FastAPI application
+├── migrations/       # Database migrations
+├── models.py         # Database models
+├── schema.py         # Pydantic schemas
+├── main.py           # FastAPI application
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
 └── alembic.ini
+```
 
 ## Features
 
